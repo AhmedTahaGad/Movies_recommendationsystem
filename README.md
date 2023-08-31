@@ -1,2 +1,2 @@
 # Movie_recommendationsystem
-Predicting user ratings for music tracks using the K-Nearest Neighbors algorithm based on user listening patterns.
+Predicting movie ratings using the K-Nearest Neighbors algorithm based on various features of movies.
